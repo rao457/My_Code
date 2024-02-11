@@ -1,0 +1,37 @@
+Genral Ai is the AI which we see in the movies and it would almost many years to reach that approach in AI 
+But real AI which is now in industry is Basic or Shallow AI 
+1- AI is basically about problem solving and critical thinking.
+>>>>>AI is all about Models
+Let's take an example 
+Let's say I hire a mechanic who knows little about the vhicle repairing(Mechanic is a model) Then I told mechanic to learn some about more cars and variety of related skills and i also told him the sources(It is model training) After he is trained I received a phone call of a person whose vhicle was out of order I asked mechanic to tell me the solution and I then told him the solution (my role is an API Application programming Interface)
+Training and Testing Data:
+It is all about to test the model whether training brought some fruit or not.
+DEFINITION OF ARTIFICIAL INTELLIGENCE:
+"It is branch of computer science which is concerned with the development of methods that allows computer to learn without explicit programming."
+Question is How to learn AI:
+It can be done with machine learning.
+Def:
+"It is a branch of AI which focuses on methods that can learn from examples and expericenses instead of relying on hard coded rules and prediction of new data
+There are Three main types of machine learning:
+1- Supervised Learning: It is type in which we train the model on labeled data. Labeled data means the data in which we know if we give this output the result would be that output. In simple we know the result of a input given to model. It is called Labeled data.
+Till 2022 in AI Supervised Learning based apllications were ruling the world of AI
+For Example:
+1- input                                            output                                 application
+   email                                            spam?(0/1)                             email filter
+   audio                                            text transcript                        speech recongintion
+   English                                          Chinese                                machine Translation
+   ad, user info                                    Click?(0/1)                            Online Advertising
+There is a limitation of supervised learning that Labeling a tons of data is very thirsty and painful work.
+By the way there are two major types of supervised learning.
+1- Classification Learning: In which, For Example We train the model to recognize the pic of cat and non-cat And whenever we give the model a pic of an animal it'll classify whether it's a cat or not. It is classificaiton learning.
+2- Regression Learning: It is type of supervised learning in which we give records of few previous experiences and expecto model to predict a new incoming record based of previous records.
+For example we show model Pics of different luggage and different parts of house and expect it to generate what would be the price of the house.
+Anoter example we give model the scores of a batsman in few previous matches and expect it to generate the idea how much runs he would make in incoming matches.
+ABOVE ALL THIS  I WANNA DISCUSS TWO MAJOR TYPES OF DATA 
+1-   STRUCTURED DATA                              2-  UN-STRUCTURED DATA
+   It is a type of data which                         It is type of data which is not
+   well structured and well                           which is not properly structured
+   labeled like labeled sheets                        in the form so that computer
+   of excel with proper rows and                      computer can take it and pre-
+   columns. Anoter example is                         cieve it. Like Audio Data, Image , 
+   data in database.                                  and so on and so forth.  
